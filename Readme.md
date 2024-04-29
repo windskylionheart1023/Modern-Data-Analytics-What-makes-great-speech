@@ -1,5 +1,5 @@
 # What makes great speech? - KUL G0Z39a 
-A class NLP assignment.
+A uni course NLP assignment.
 
 To utlise google.py, you should download ChromeDriver at https://chromedriver.chromium.org/downloads, and specify the path of chromedriver executable in google.py file.
 
